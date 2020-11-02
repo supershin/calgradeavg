@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+}
+legend{
+    background: antiquewhite;
+}
+.container{
+    margin-top:20px;
+}
+.table>thead>tr>th{
+    background: #383737;
+    color: white;
+}
+.lb-result{
+    padding-left: 0px;
+}
+#success_message{ display: none;}
